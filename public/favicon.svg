@@ -1,0 +1,8 @@
+<!-- Placeholder favicon — replace with your own mark. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="44" fill="#6946AB"/>
+  <rect x="46" y="46" width="48" height="48" rx="10" fill="#ffffff"/>
+  <rect x="106" y="46" width="48" height="48" rx="10" fill="#ffffff" opacity="0.55"/>
+  <rect x="46" y="106" width="48" height="48" rx="10" fill="#ffffff" opacity="0.55"/>
+  <rect x="106" y="106" width="48" height="48" rx="10" fill="#ffffff"/>
+</svg>
